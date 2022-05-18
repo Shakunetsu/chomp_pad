@@ -3788,7 +3788,7 @@
     (uuid a63de8d8-556e-460c-b1fe-c7ccba6e59e8)
     (property "Reference" "SW27" (id 0) (at 243.84 78.486 0))
     (property "Value" "SW_PUSH" (id 1) (at 240.03 83.312 0))
-    (property "Footprint" "kbd:MX_ALPS_PG1350_noLed" (id 2) (at 240.03 81.28 0)
+    (property "Footprint" "" (id 2) (at 240.03 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 240.03 81.28 0))
@@ -4775,7 +4775,7 @@
       (reference "SW26") (unit 1) (value "SW_PUSH") (footprint "kbd:MX_ALPS_PG1350_noLed")
     )
     (path "/a63de8d8-556e-460c-b1fe-c7ccba6e59e8"
-      (reference "SW27") (unit 1) (value "SW_PUSH") (footprint "kbd:MX_ALPS_PG1350_noLed")
+      (reference "SW27") (unit 1) (value "SW_PUSH") (footprint "kbd:MX_ALPS_PG1350_noLed_1.75u")
     )
     (path "/71e46ee0-ea70-461a-85e4-97485bdc2a73"
       (reference "U1") (unit 1) (value "kbd:ProMicro") (footprint "kbd:ProMicro_v2")
