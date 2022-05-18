@@ -3,4 +3,5 @@
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name "kbd")(type "KiCad")(uri "D:/CAD/keyboard_cad/kbd/kicad-symbols/kbd.kicad_sym")(options "")(descr ""))
   (lib (name "lets_split-cache")(type "KiCad")(uri "D:/CAD/keyboard_cad/let-s-Split-v2/lets_split/lets_split-cache.kicad_sym")(options "")(descr ""))
+  (lib (name "trrs")(type "KiCad")(uri "${KIPRJMOD}/SJ-43514/SJ-43514.kicad_sym")(options "")(descr ""))
 )
